@@ -109,7 +109,10 @@ section .banner {
   background-image: url("https://source.unsplash.com/random");
   background-position: center;
 }
-
+img{
+  width: 200px;
+  height: 300px;
+}
 .category-1 {
   color: #d0f70a;
 }
